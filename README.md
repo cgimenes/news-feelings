@@ -1,6 +1,6 @@
 # news-feelings
 
-Desenvolver sistema que lista de uma maneira fácil de visualizar as notícias de um grande período e o possível sentimento gerado através dela (a ideia é gerar informações concretas sobre o uso da mídia para manipulação de sentimentos) @home #20h
+Desenvolver sistema que lista de uma maneira fácil de visualizar as notícias de um grande período e o possível sentimento gerado através dela (a ideia é gerar informações concretas sobre o uso da mídia para manipulação de sentimentos)
 
 # Funcionalidades
 
